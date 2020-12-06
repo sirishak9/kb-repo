@@ -3,7 +3,7 @@ kind: Service
 metadata:
   # Unique key of the Service instance
   name: ion-service
-   labels:
+  labels:
     app: ion
 spec:
   selector:
